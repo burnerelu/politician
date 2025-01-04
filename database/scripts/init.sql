@@ -18,4 +18,7 @@ INSERT INTO parties (name, abbrev, description) VALUES ('Progress Party', 'PP', 
 
 INSERT INTO politicians (name, party_id, bio) VALUES ('Ion Ionel', 1, 'Ion Ionel Bio');
 INSERT INTO politicians (name, party_id, bio) VALUES ('Andrei Alin', 2, 'Sample Bio');
-INSERT INTO politicians (name, party_id, bio) VALUES ('Victor Viorel', 1, 'VV Bio');
+INSERT INTO politicians (name, party_id, bio) VALUES ('Victor Viorel', 3, 'VV Bio');
+INSERT INTO politicians (name, party_id, bio) VALUES ('Denis Daniel', 3, 'DD Bio');
+INSERT INTO politicians (name, party_id, bio) VALUES ('Firicel Faur', 2, 'FF Bio');
+INSERT INTO politicians (name, party_id, bio) VALUES ('Irinel Ionel', 1, 'Irinel Ionel Bio');
